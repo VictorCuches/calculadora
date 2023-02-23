@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/calculadora/static/css/main.04a5840d.css",
+    "main.js": "/calculadora/static/js/main.7aeadcad.js",
+    "static/media/perritu.jpg": "/calculadora/static/media/perritu.a74e8b6b98eb3c9524e2.jpg",
+    "index.html": "/calculadora/index.html",
+    "main.04a5840d.css.map": "/calculadora/static/css/main.04a5840d.css.map",
+    "main.7aeadcad.js.map": "/calculadora/static/js/main.7aeadcad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04a5840d.css",
+    "static/js/main.7aeadcad.js"
+  ]
+}
